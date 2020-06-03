@@ -1,0 +1,5 @@
+{
+  "stars": "Etoiles: {{stars}}",
+  "issues": "problèmes: {{issues}}",
+  "submitted_by": "Soumis {{date}} par: {{by}}"
+}
